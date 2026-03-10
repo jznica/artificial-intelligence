@@ -59,9 +59,9 @@ python bfs.py
 ## 📂 Repository Structure
 
 ```
-AI-Lab
+DSA0107
 │
-├── water_jug.py
+├── waterJug.py
 ├── bfs.py
 ├── dfs.py
 ├── tsp.py
